@@ -1,4 +1,5 @@
 # Dino tractor
+This was a fun little side project.
 
 ![Demo video](/Assets/Demo.gif)
 
