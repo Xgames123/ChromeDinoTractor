@@ -1,0 +1,12 @@
+{
+  "name": "Dino tractor",
+  "description": "Make the dino in the dino game ride a tractor",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+   {
+     "matches": ["*://*/*"],
+     "js": ["ContentScript.js"]
+   }
+   ]
+}
