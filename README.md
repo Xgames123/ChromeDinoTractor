@@ -1,6 +1,8 @@
 # Dino tractor
 This was a fun little side project.
 
+It is a good Idea to save this to your computer for If you ever lose internet :)
+
 ![Demo video](/Assets/Demo.gif)
 
 ```js
@@ -10,3 +12,4 @@ var instance=window.Runner.instance_,now=getTimeStamp()/1e3,lastTime=getTimeStam
 1. Turn off your internet or go to chrome://dino.
 2. Press ctr+shift+c and click on console.
 3. Copy the code above into there and press enter.
+
